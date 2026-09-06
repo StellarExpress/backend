@@ -1,3 +1,4 @@
+// Dispute dto.
 import { Field, InputType, Int } from '@nestjs/graphql';
 import { IsInt, IsNotEmpty, IsString, Max, Min } from 'class-validator';
 
