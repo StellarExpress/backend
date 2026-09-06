@@ -1,3 +1,4 @@
+// Shipment dto.
 import { Field, Float, InputType, Int } from '@nestjs/graphql';
 import { AssetCode, ShipmentCategory } from '@prisma/client';
 import { IsDate, IsEnum, IsInt, IsNotEmpty, IsPositive, IsString, Max, Min } from 'class-validator';
