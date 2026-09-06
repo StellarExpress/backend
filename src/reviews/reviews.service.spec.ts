@@ -1,3 +1,4 @@
+// Reviews service spec tests.
 import { BadRequestException, ForbiddenException } from '@nestjs/common';
 import { ReviewsService } from './reviews.service';
 import { PrismaService } from '../prisma/prisma.service';

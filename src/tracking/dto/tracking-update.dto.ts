@@ -1,3 +1,4 @@
+// Tracking update dto.
 import { Field, InputType } from '@nestjs/graphql';
 import { IsNotEmpty, IsOptional, IsString } from 'class-validator';
 

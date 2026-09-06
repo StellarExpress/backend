@@ -1,3 +1,4 @@
+// Shipments service spec tests.
 import { BadRequestException, ForbiddenException, NotFoundException } from '@nestjs/common';
 import { ShipmentStatus } from '@prisma/client';
 import { ShipmentsService } from './shipments.service';
