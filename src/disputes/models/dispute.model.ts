@@ -1,3 +1,4 @@
+// Dispute model.
 import { Field, ID, Int, ObjectType, registerEnumType } from '@nestjs/graphql';
 import { DisputeStatus } from '@prisma/client';
 

@@ -1,3 +1,4 @@
+// User model hook.
 import { Field, ID, ObjectType } from '@nestjs/graphql';
 
 @ObjectType()
