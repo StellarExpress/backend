@@ -1,3 +1,4 @@
+// Tracking update model.
 import { Field, ID, ObjectType } from '@nestjs/graphql';
 
 @ObjectType()

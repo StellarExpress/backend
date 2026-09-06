@@ -1,3 +1,4 @@
+// Auth dto.
 import { Field, InputType, ObjectType } from '@nestjs/graphql';
 import { IsBoolean, IsEmail, IsNotEmpty, IsOptional, IsString, MinLength } from 'class-validator';
 
